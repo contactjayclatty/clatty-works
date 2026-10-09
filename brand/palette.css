@@ -1,0 +1,12 @@
+:root {
+  --cw-teal: #0F8A8A;
+  --cw-teal-dark: #0A5C5C;
+  --cw-panel: #D5D9DC;
+  --cw-paper: #FFFFFF;
+  --cw-charcoal: #2A2E31;
+  --cw-amber: #E39B2D;
+  --cw-bevel-light: #F2F4F5;
+  --cw-bevel-dark: #8E959A;
+  --cw-font-sans: "IBM Plex Sans", system-ui, sans-serif;
+  --cw-font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
